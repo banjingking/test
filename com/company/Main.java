@@ -7,4 +7,8 @@ public class Main {
     }
 
     //change in remote
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 }
