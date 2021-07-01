@@ -14,4 +14,8 @@ public class Main {
 
 
     jessiedjlsjljdlfs
+
+    public void name() {
+        return a;
+    }
 }
